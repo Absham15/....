@@ -1,0 +1,6 @@
+body > img{
+    width: 280px;
+    height: 150px;
+    position: absolute;
+    left: 50%;
+}
